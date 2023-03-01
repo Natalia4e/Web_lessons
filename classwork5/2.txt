@@ -1,0 +1,10 @@
+<?xml version = "1.0"?>
+<books>
+    <book>
+        <label>Камили видит руками</label>
+        <author>Томаш Малковски</author>
+        <pages>146</pages>
+        <publish_date> 2019</publish_date>
+        <price>863</price>
+    </book>
+</books>
